@@ -1,7 +1,9 @@
-### Hi there 👋
+### Bienvenue sur ma page Github 
 
 <!--
 **RaphaelJ-S/RaphaelJ-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Je suis présentement étudiant au premier cycle en informatique.
+
+Je planifie de travailler sur :
+
+* Approfondir mes connaisances en powershell core
+* Apprendre Python
+* Me familiariser avec l'environnement .NET
+
+Langages connus (Est-ce que je connais vraiment ces langages? :thinking:):
+
+
+
