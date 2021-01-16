@@ -27,5 +27,14 @@ Je planifie de travailler sur :
 
 Langages connus (Est-ce que je connais vraiment ces langages? :thinking:):
 
+* C
+* C++
+* Java
+* SQL\*plus
+* PL/SQL
+* JavaScript
+* TypeScript
+* HTML
+* CSS
 
 
