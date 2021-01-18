@@ -25,7 +25,7 @@ Je planifie de travailler sur :
 * Apprendre Python
 * Me familiariser avec l'environnement .NET
 
-Langages connus (Est-ce que je connais vraiment ces langages? :thinking:):
+Langages connus :
 
 * C
 * C++
